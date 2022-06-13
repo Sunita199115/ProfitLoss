@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+label {
+  display: block;
+  margin: 10px;
+}
+h1 {
+  margin-top: 10%;
+  color: blue;
+}
+button {
+  background-color: blue;
+  padding: 10px 20px 10px 20px;
+}
+.cls_calc {
+  border: bold;
+  margin: 2%;
+}
